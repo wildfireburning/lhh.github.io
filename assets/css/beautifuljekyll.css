@@ -850,6 +850,7 @@ table tr td {
   text-align: left;
   margin: 0;
   padding: 0.375rem 0.8125rem;
+  font-family: calibri;
 }
 table tr th {
   font-weight: bold;

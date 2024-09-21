@@ -89,13 +89,13 @@ blockquote p:first-child {
 .jumbotron {
   background: #EEE;
 }
-hr.small {
+/* hr.small {
   max-width: 6.25rem;
   margin: 1rem auto;
   border-width: 0.25rem;
   border-color: inherit;
   border-radius: 0.1875rem;
-}
+} */
 
 /* fix in-page anchors to not be behind fixed header */
 :target:before {
